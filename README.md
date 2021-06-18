@@ -5,6 +5,8 @@
 This is my first 3D–printed Tank. The design is very simple, but there is no suspension for the Tracks yet, so be careful when driving. It is controlled by a Arduino uno over a Bluetooth connection with ‘RemoteXY’. You need about 50 hours to print all the parts and 400g filament.
 To assemble the 2 complete Tracks you need to print 108 Tracks (54 per side) and 108pcs of 33mm long and 0.7mm thick wire to connect them. I would rate you to first print the small adapters (BearingAdapter.stl or MotorAdapter.stl), to make sure you can screw in the M3 screws. Because it’s very important that they hold strong enough.
 
+Download 3D-Files: 
+
 # Material's list:
 
 - 2x 608Z bearing
@@ -24,7 +26,9 @@ To assemble the 2 complete Tracks you need to print 108 Tracks (54 per side) and
 
 # Wiring:
 
+![Wiring](Wiring.png)
 
+It is very important, that the Baudrate of your HC05/06 is set to 9600. There are many tutorials in the internet that show how to do this. 
 
 # Connect with RemoteXY:
 

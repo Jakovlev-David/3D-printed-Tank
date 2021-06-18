@@ -7,7 +7,7 @@ To assemble the 2 complete Tracks you need to print 108 Tracks (54 per side) and
 
 Download 3D-Files: 
 
-# Material's list:
+# Materials list:
 
 - 2x 608Z bearing
 - 8x F625Z bearing
